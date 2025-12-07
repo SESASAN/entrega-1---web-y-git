@@ -15,15 +15,15 @@ Este es un proyecto para aprender desarrollo web. Se utilizó una plantilla púb
     `git clone https://github.com/SESASAN/entrega-1---web-y-git.git`
 
 2. Abrir la carpeta con **Visual Studio Code**.
-    ![alt text](image.png)
+    ![alt text](assets/imgs/image.png)
 3. Instalar la extensión de **"Live Server"**.
-    ![alt text](image-1.png)
+    ![alt text](assets/imgs/image-1.png)
 3. Ubicarse en el archivo **"index.html"**.
-    ![alt text](image-2.png)
+    ![alt text](assets/imgs/image-2.png)
 4. Darle al botón **"Go Live"**.
-    ![alt text](image-3.png)
+    ![alt text](assets/imgs/image-3.png)
 5. Ver la página en el navegador.
-    ![alt text](image-4.png)
+    ![alt text](assets/imgs/image-4.png)
 
 ### Autor original
 
