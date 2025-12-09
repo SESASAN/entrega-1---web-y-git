@@ -11334,17 +11334,26 @@ pre {
   min-height: 500px;
 }
 
-.gallary {
+.gallary{
   margin: 0;
+  column-count: 4;
+  column-gap: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
-.gallary .gallary-item {
+.gallary-item {
   padding: 0;
   border: 1px solid #343a40;
+  break-inside: avoid; 
+  margin: 0;
+  width: 100%;
+  position: relative;
 }
 
-.gallary .gallary-item .gallary-img {
+.gallary-img {
   width: 100%;
+  display: block;
 }
 
 .gallary .gallary-item .gallary-overlay {
