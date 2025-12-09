@@ -11392,3 +11392,55 @@ pre {
   visibility: visible;
   opacity: 1;
 }
+
+.pizza-list {
+    border-radius: 12px;
+    background: #1f1f1f;
+    box-shadow: 0 0 25px rgba(0,0,0,0.25);
+}
+
+.pizza-item {
+    background: #262626;
+    border-radius: 8px;
+    transition: transform 0.2s ease, background 0.2s ease;
+    font-size: 1.25rem;
+}
+
+.pizza-item:hover {
+    background: #2e2e2e;
+    transform: translateX(5px);
+}
+
+.pizza-name {
+    font-weight: 500;
+}
+
+.badge-visit {
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #fff;
+}
+
+.badge-red {
+    background-color: #d93757;
+}
+
+.badge-green {
+    background-color: #77bd35;
+}
+
+.badge-orange {
+    background-color: #f57c42;
+}
+
+.badge-blue {
+    background-color: #0fbad6;
+}
+
+#pizzerias .section-title {
+    font-size: 3rem !important;
+    font-weight: 700;
+}
+
